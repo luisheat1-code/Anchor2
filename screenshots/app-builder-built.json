@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Anchor",
+      "hasCanvas": false,
+      "bodyTextLen": 374,
+      "bodyTextHash": "0ced7c318236851632dfd032419385849ceafe59946f76643beeb5b1df094497",
+      "bodyTextPrefix": "Anchor Semester schedule Schedule Practice Grades Plan PLAN Prev",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Anchor",
+      "hasCanvas": false,
+      "bodyTextLen": 336,
+      "bodyTextHash": "2512d3efa5baf6138e5a58bd7ce9c38175c5fb40d3a6c1a585840071d323e90a",
+      "bodyTextPrefix": "THIS SEMESTER Syllabus to schedule. Add syllabus Paste a syllabu",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

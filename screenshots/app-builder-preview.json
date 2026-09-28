@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Anchor",
+      "hasCanvas": false,
+      "bodyTextLen": 6,
+      "bodyTextHash": "a4ae750b610e875e5fbaeed1eff6089bec7355cdfefab96275c3aef1b47ec56e",
+      "bodyTextPrefix": "Anchor",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Anchor",
+      "hasCanvas": false,
+      "bodyTextLen": 133,
+      "bodyTextHash": "bbc6f2e4b6d980a03810be61535dc196140173fb9d9edcd1eadd202f8878d2f5",
+      "bodyTextPrefix": "Anchor Log in An account starts the 7-day trial. The semester st",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
